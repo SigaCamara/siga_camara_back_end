@@ -21,6 +21,7 @@ Rails.application.routes.draw do
       get 'bairros/mapa_calor', to: 'bairros#mapa_calor'
       get 'bairros/mapa_calor_full', to: 'bairros#mapa_calor_full'
       get 'bairros/rank_bairro_parlamentar', to: 'bairros#rank_bairro_parlamentar'
+      get 'bairros/rank_parlamentar_bairro', to: 'bairros#rank_parlamentar_bairro'
       get 'tramitacoes/:materia', to: 'tramitacoes#lista'
     end    
   end  

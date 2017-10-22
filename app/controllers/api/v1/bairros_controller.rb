@@ -139,6 +139,35 @@ class Api::V1::BairrosController < Api::V1::ApiController
     end  
   end
 
+  def rank_parlamentar_bairro
+    if File.exists?("mapa_calor.json")
+      mapa = JSON File.read("mapa_calor.json")
+
+      rank = []
+
+      unless params[:bairro].nil?
+        mapa.delete_if {|x| 
+          x['bairro'].downcase != params[:bairro].downcase
+        }
+
+
+        parlamentares = Api::V1::ParlamentaresController.todos      
+        parlamentares.each do |parlamentar|
+          qtd = mapa.count {|x| 
+                  !x['parlamentares'].index(parlamentar['id']).nil?
+                }
+          rank.push({parlamentar: parlamentar, bairro: params[:bairro], qtd: qtd})
+        end
+      end
+
+      render json: rank.sort{|x, y|
+        y[:qtd] <=> x[:qtd]
+      }
+    else
+      raise "O arquivo de mapa de calor não foi encontrado."
+    end 
+  end
+
   def mapa_calor_full
     if File.exists?("mapa_calor.json")
       mapa = JSON File.read("mapa_calor.json")

@@ -8,6 +8,9 @@ class Api::V1::MateriasController < Api::V1::ApiController
 
   def consulta_materia
     lista = consulta_completa
+    lista.each do |materia|
+      incluir_parlamentar_materia(materia)
+    end
     render json: lista
   end
 
@@ -73,6 +76,24 @@ class Api::V1::MateriasController < Api::V1::ApiController
   end
 
   def rank_tipo_materia_parlamentar
+    lista = consulta_completa
+    tipos = tipos_materias
+
+    rank = []
+
+    tipos.each do |tipo|
+      qtd = lista.count {|x|
+        x['tipo_materia_id'] == tipo['id']
+      }
+      rank.push({id_parlamentar: params[:parlamentar].to_i, tipo_materia: tipo['descricao'], qtd: qtd})
+    end
+
+    render json: rank.sort{|x, y|
+      y[:qtd] <=> x[:qtd]
+    }
+  end
+
+  def rank_tipo_materia_bairro
     lista = consulta_completa
     tipos = tipos_materias
 

@@ -10,4 +10,10 @@ class Api::V1::ParlamentaresController <  Api::V1::ApiController
     render json: lista
   end
 
+  def self.todos
+    url = "http://sagl-api.campinas.sp.leg.br/parlamentares"
+    retorno = RestClient.get(url)
+    JSON(retorno.body)['data']
+  end
+
 end
