@@ -98,6 +98,65 @@ class Api::V1::BairrosController < Api::V1::ApiController
     end      
   end
 
+  def mapa_calor
+    if File.exists?("mapa_calor.json")
+      mapa = JSON File.read("mapa_calor.json")
+
+      unless params[:parlamentar].nil?
+        mapa.delete_if {|x| 
+          x['parlamentares'].index(params[:parlamentar].to_i).nil? 
+        }
+      end
+
+      render json: mapa
+    else
+      raise "O arquivo de mapa de calor não foi encontrado."
+    end  
+  end
+
+  def rank_bairro_parlamentar
+    if File.exists?("mapa_calor.json")
+      mapa = JSON File.read("mapa_calor.json")
+      bairros = carregar_bairros
+
+      rank = []
+
+      unless params[:parlamentar].nil?
+        bairros.each do |bairro|
+          qtd = mapa.count {|x| 
+                  !x['parlamentares'].index(params[:parlamentar].to_i).nil? &&
+                  x['bairro'] == bairro
+                }
+          rank.push({id_parlamentar: params[:parlamentar].to_i, bairro: bairro, qtd: qtd})
+        end
+      end
+
+      render json: rank.sort{|x, y|
+        y[:qtd] <=> x[:qtd]
+      }
+    else
+      raise "O arquivo de mapa de calor não foi encontrado."
+    end  
+  end
+
+  def mapa_calor_full
+    if File.exists?("mapa_calor.json")
+      mapa = JSON File.read("mapa_calor.json")
+
+      mapa.each_with_index {|item, index|
+        pp index
+        url = "http://sagl-api.campinas.sp.leg.br/materias/#{item['id_materia']}"
+        materia = RestClient.get(url)
+        m = JSON(materia.body)['data']
+        mapa[index].merge!({"parlamentares" => m['autores_parlamentares']})
+      }
+
+      render json: mapa
+    else
+      raise "O arquivo de mapa de calor não foi encontrado."
+    end  
+  end
+
   private
 
     def carregar_bairros
