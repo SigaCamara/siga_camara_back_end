@@ -1,0 +1,2362 @@
+[
+  {
+    "bairro": "Bosque",
+    "latitude": -22.909649,
+    "longitude": -47.0497877
+  },
+  {
+    "bairro": "Botafogo",
+    "latitude": -22.8994286,
+    "longitude": -47.07655159999999
+  },
+  {
+    "bairro": "Bonfim",
+    "latitude": -22.8991606,
+    "longitude": -47.08600029999999
+  },
+  {
+    "bairro": "Cambuí",
+    "latitude": -22.8921264,
+    "longitude": -47.0546529
+  },
+  {
+    "bairro": "Centro",
+    "latitude": -22.9101744,
+    "longitude": -47.0593274
+  },
+  {
+    "bairro": "Guanabara",
+    "latitude": -22.8921301,
+    "longitude": -47.0691402
+  },
+  {
+    "bairro": "Vila Itapura",
+    "latitude": -22.8988231,
+    "longitude": -47.0629269
+  },
+  {
+    "bairro": "Vila Industrial",
+    "latitude": -22.9088112,
+    "longitude": -47.0769499
+  },
+  {
+    "bairro": "Campo dos Amarais",
+    "latitude": -22.8594092,
+    "longitude": -47.1095896
+  },
+  {
+    "bairro": "Guanabara",
+    "latitude": -22.8921301,
+    "longitude": -47.0691402
+  },
+  {
+    "bairro": "Jardim IV Centenário",
+    "latitude": -22.8923633,
+    "longitude": -47.0984598
+  },
+  {
+    "bairro": "Jardim Aurélia",
+    "latitude": -22.9091246,
+    "longitude": -47.0984598
+  },
+  {
+    "bairro": "Jardim Bandeirantes",
+    "latitude": -22.8983398,
+    "longitude": -47.0966337
+  },
+  {
+    "bairro": "Jardim Campineiro",
+    "latitude": -22.8469707,
+    "longitude": -47.1203773
+  },
+  {
+    "bairro": "Jardim Chapadão",
+    "latitude": -22.8921646,
+    "longitude": -47.0815618
+  },
+  {
+    "bairro": "Jardim Eulina",
+    "latitude": -22.8915928,
+    "longitude": -47.1055488
+  },
+  {
+    "bairro": "Jardim Interlagos",
+    "latitude": -22.9041453,
+    "longitude": -47.1017979
+  },
+  {
+    "bairro": "Jardim Magnólia",
+    "latitude": -22.9015259,
+    "longitude": -47.0954164
+  },
+  {
+    "bairro": "Jardim Miranda",
+    "latitude": -22.914695,
+    "longitude": -47.0954164
+  },
+  {
+    "bairro": "Jardim Pacaembu",
+    "latitude": -22.8995947,
+    "longitude": -47.1075909
+  },
+  {
+    "bairro": "Jardim Santa Mônica",
+    "latitude": -22.8501079,
+    "longitude": -47.1081997
+  },
+  {
+    "bairro": "Jardim São Marcos",
+    "latitude": -22.8477469,
+    "longitude": -47.1155059
+  },
+  {
+    "bairro": "Jardim do Vovô",
+    "latitude": -22.9011688,
+    "longitude": -47.1033295
+  },
+  {
+    "bairro": "Loteamento Center Santa Genebra",
+    "latitude": -22.8476008,
+    "longitude": -47.0844618
+  },
+  {
+    "bairro": "Parque das Flores",
+    "latitude": -22.8522421,
+    "longitude": -47.05526099999999
+  },
+  {
+    "bairro": "Parque Cidade de Campinas",
+    "latitude": -22.8371345,
+    "longitude": -47.15388060000001
+  },
+  {
+    "bairro": "Parque Fazendinha",
+    "latitude": -22.8918431,
+    "longitude": -47.15448989999999
+  },
+  {
+    "bairro": "Parque Santa Bárbara",
+    "latitude": -22.8918084,
+    "longitude": -47.1471782
+  },
+  {
+    "bairro": "Parque São Jorge",
+    "latitude": -22.8964644,
+    "longitude": -47.158203
+  },
+  {
+    "bairro": "Parque das Universidades",
+    "latitude": -22.837082,
+    "longitude": -47.0546529
+  },
+  {
+    "bairro": "Parque Via Norte",
+    "latitude": -22.8850353,
+    "longitude": -47.1208874
+  },
+  {
+    "bairro": "Residencial Campo Florido",
+    "latitude": -22.8340369,
+    "longitude": -47.1515361
+  },
+  {
+    "bairro": "Residencial Parque Bandeirantes",
+    "latitude": -22.904418,
+    "longitude": -47.1030487
+  },
+  {
+    "bairro": "Vila Aurocan",
+    "latitude": -22.9114791,
+    "longitude": -47.091156
+  },
+  {
+    "bairro": "Vila Boa Vista",
+    "latitude": -22.8886602,
+    "longitude": -47.124502
+  },
+  {
+    "bairro": "Vila Nova",
+    "latitude": -22.8748463,
+    "longitude": -47.0715007
+  },
+  {
+    "bairro": "Vila Olímpia",
+    "latitude": -22.8346106,
+    "longitude": -47.1456587
+  },
+  {
+    "bairro": "Vila Proost de Sousa",
+    "latitude": -22.901033,
+    "longitude": -47.0896658
+  },
+  {
+    "bairro": "Vila Rossi e Siqueira",
+    "latitude": -22.897363,
+    "longitude": -47.0803831
+  },
+  {
+    "bairro": "Vila São Bento",
+    "latitude": -22.910747,
+    "longitude": -47.0934298
+  },
+  {
+    "bairro": "Vila San Martin",
+    "latitude": -22.8399422,
+    "longitude": -47.1569274
+  },
+  {
+    "bairro": "Alphaville",
+    "latitude": -22.8213202,
+    "longitude": -47.02627589999999
+  },
+  {
+    "bairro": "Bananal",
+    "latitude": -22.9133025,
+    "longitude": -47.0473531
+  },
+  {
+    "bairro": "Carlos Gomes",
+    "latitude": -22.9599591,
+    "longitude": -47.1992441
+  },
+  {
+    "bairro": "Chácara da Barra",
+    "latitude": -22.8880278,
+    "longitude": -47.0351952
+  },
+  {
+    "bairro": "Chácara Gargantilha",
+    "latitude": -22.7729203,
+    "longitude": -46.9501323
+  },
+  {
+    "bairro": "Chácara Primavera",
+    "latitude": -22.859393,
+    "longitude": -47.0497877
+  },
+  {
+    "bairro": "Gramado",
+    "latitude": -22.9081477,
+    "longitude": -47.0026999
+  },
+  {
+    "bairro": "Jardim Bela Vista",
+    "latitude": -22.8753037,
+    "longitude": -47.0418829
+  },
+  {
+    "bairro": "Jardim Guanabara",
+    "latitude": -22.8922073,
+    "longitude": -47.069251
+  },
+  {
+    "bairro": "Jardim Belo Horizonte",
+    "latitude": -22.8810821,
+    "longitude": -47.0457967
+  },
+  {
+    "bairro": "Jardim Boa Esperança",
+    "latitude": -22.8772707,
+    "longitude": -47.037019
+  },
+  {
+    "bairro": "Jardim Bom Retiro",
+    "latitude": -22.9044575,
+    "longitude": -47.0360738
+  },
+  {
+    "bairro": "Jardim Campinas",
+    "latitude": -22.8785379,
+    "longitude": -47.0497877
+  },
+  {
+    "bairro": "Jardim Conceição",
+    "latitude": -22.8861222,
+    "longitude": -46.9829395
+  },
+  {
+    "bairro": "Jardim Dom Bosco",
+    "latitude": -22.8826084,
+    "longitude": -47.0551525
+  },
+  {
+    "bairro": "Jardim Flamboyant",
+    "latitude": -22.8828262,
+    "longitude": -47.0321556
+  },
+  {
+    "bairro": "Jardim Itamarati",
+    "latitude": -22.904439,
+    "longitude": -47.0348166
+  },
+  {
+    "bairro": "Jardim Madalena",
+    "latitude": -22.8656419,
+    "longitude": -47.0254691
+  },
+  {
+    "bairro": "Jardim Míriam",
+    "latitude": -22.8175182,
+    "longitude": -47.0274239
+  },
+  {
+    "bairro": "Jardim Monte Belo I",
+    "latitude": -23.4864176,
+    "longitude": -46.3684941
+  },
+  {
+    "bairro": "Jardim Nilópolis",
+    "latitude": -22.8529894,
+    "longitude": -47.0403354
+  },
+  {
+    "bairro": "Jardim Novo Taquaral",
+    "latitude": -22.8744468,
+    "longitude": -47.0410678
+  },
+  {
+    "bairro": "Jardim Nossa Senhora Auxiliadora",
+    "latitude": -22.8728495,
+    "longitude": -47.0460766
+  },
+  {
+    "bairro": "Jardim das Paineiras",
+    "latitude": -22.8970952,
+    "longitude": -47.0348536
+  },
+  {
+    "bairro": "Jardim das Palmeiras",
+    "latitude": -22.8967978,
+    "longitude": -47.0345872
+  },
+  {
+    "bairro": "Jardim Paraíso",
+    "latitude": -22.9087725,
+    "longitude": -47.0364111
+  },
+  {
+    "bairro": "Jardim Planalto",
+    "latitude": -22.8960599,
+    "longitude": -47.0449231
+  },
+  {
+    "bairro": "Jardim Professora Tarcilla",
+    "latitude": -22.8605345,
+    "longitude": -47.0470153
+  },
+  {
+    "bairro": "Jardim Santana",
+    "latitude": -22.8592701,
+    "longitude": -47.03664320000001
+  },
+  {
+    "bairro": "Jardim Santa Cândida",
+    "latitude": -22.9017032,
+    "longitude": -47.1706404
+  },
+  {
+    "bairro": "Jardim Santa Genebra",
+    "latitude": -22.848139,
+    "longitude": -47.06959210000001
+  },
+  {
+    "bairro": "Jardim Santa Marcelina",
+    "latitude": -22.9055241,
+    "longitude": -47.0266848
+  },
+  {
+    "bairro": "Jardim São Carlos",
+    "latitude": -22.9015725,
+    "longitude": -47.03276349999999
+  },
+  {
+    "bairro": "Jardim São Rafael",
+    "latitude": -22.8820687,
+    "longitude": -47.0423679
+  },
+  {
+    "bairro": "Mansões Santo Antônio",
+    "latitude": -22.8522138,
+    "longitude": -47.0497877
+  },
+  {
+    "bairro": "Notre Dame",
+    "latitude": -22.8932977,
+    "longitude": -47.0065399
+  },
+  {
+    "bairro": "Nova Campinas",
+    "latitude": -22.9040083,
+    "longitude": -47.0400589
+  },
+  {
+    "bairro": "Alto do Taquaral",
+    "latitude": -22.8586209,
+    "longitude": -47.0546529
+  },
+  {
+    "bairro": "Parque Brasília",
+    "latitude": -22.8799967,
+    "longitude": -47.0254691
+  },
+  {
+    "bairro": "Parque da Hípica",
+    "latitude": -22.8898975,
+    "longitude": -47.0139218
+  },
+  {
+    "bairro": "Parque dos Pomares",
+    "latitude": -22.8169092,
+    "longitude": -47.008453
+  },
+  {
+    "bairro": "Parque Imperador",
+    "latitude": -22.8449203,
+    "longitude": -47.0279005
+  },
+  {
+    "bairro": "Parque São Quirino",
+    "latitude": -22.7561735,
+    "longitude": -47.0158512
+  },
+  {
+    "bairro": "Parque Shangrilá 3",
+    "latitude": -22.800894,
+    "longitude": -47.021358
+  },
+  {
+    "bairro": "Parque Shangrilá 3",
+    "latitude": -22.9615135,
+    "longitude": -45.4222167
+  },
+  {
+    "bairro": "Parque Shangrilá 4",
+    "latitude": -22.800894,
+    "longitude": -47.021358
+  },
+  {
+    "bairro": "Parque Shangrilá 4",
+    "latitude": -22.8321747,
+    "longitude": -47.0503578
+  },
+  {
+    "bairro": "Parque Shangrilá 4",
+    "latitude": -22.9615135,
+    "longitude": -45.4222166
+  },
+  {
+    "bairro": "Parque Taquaral",
+    "latitude": -22.8716597,
+    "longitude": -47.0613166
+  },
+  {
+    "bairro": "Recanto dos Dourados",
+    "latitude": -22.7953804,
+    "longitude": -46.9956902
+  },
+  {
+    "bairro": "Residencial Shangrilá",
+    "latitude": -22.8009792,
+    "longitude": -47.0213883
+  },
+  {
+    "bairro": "Taquaral",
+    "latitude": -22.882513,
+    "longitude": -47.0473554
+  },
+  {
+    "bairro": "Vila Brandina",
+    "latitude": -22.8967442,
+    "longitude": -47.0254691
+  },
+  {
+    "bairro": "Vila 31 de Março",
+    "latitude": -22.8720081,
+    "longitude": -47.0230379
+  },
+  {
+    "bairro": "Vila Costa e Silva",
+    "latitude": -22.8586963,
+    "longitude": -47.069251
+  },
+  {
+    "bairro": "Vila Gênesis",
+    "latitude": -22.9059285,
+    "longitude": -47.0607018
+  },
+  {
+    "bairro": "Vila Gênesis",
+    "latitude": -22.8504539,
+    "longitude": -47.0322206
+  },
+  {
+    "bairro": "Vila Iza",
+    "latitude": -22.8825877,
+    "longitude": -47.0483375
+  },
+  {
+    "bairro": "Vila Miguel Vicente Cury",
+    "latitude": -22.8600197,
+    "longitude": -47.0631283
+  },
+  {
+    "bairro": "Vila Nogueira",
+    "latitude": -22.8694935,
+    "longitude": -47.0381509
+  },
+  {
+    "bairro": "Cidade Jardim",
+    "latitude": -22.9250434,
+    "longitude": -47.0905474
+  },
+  {
+    "bairro": "Fundação da Casa Popular",
+    "latitude": -22.9169412,
+    "longitude": -47.07747730000001
+  },
+  {
+    "bairro": "Jardim Amazonas",
+    "latitude": -22.9434803,
+    "longitude": -47.0382349
+  },
+  {
+    "bairro": "Jardim das Andorinhas",
+    "latitude": -22.9190445,
+    "longitude": -47.0206068
+  },
+  {
+    "bairro": "Jardim Baronesa",
+    "latitude": -22.9144196,
+    "longitude": -47.035047
+  },
+  {
+    "bairro": "Jardim Campo Belo I",
+    "latitude": -23.035038,
+    "longitude": -47.118583
+  },
+  {
+    "bairro": "Jardim Campo Belo II",
+    "latitude": -23.031478,
+    "longitude": -47.12497279999999
+  },
+  {
+    "bairro": "Jardim Carlos Lourenço",
+    "latitude": -22.9278472,
+    "longitude": -47.0254691
+  },
+  {
+    "bairro": "Jardim Esmeraldina",
+    "latitude": -22.9351407,
+    "longitude": -47.0124027
+  },
+  {
+    "bairro": "Jardim Estoril",
+    "latitude": -22.9357915,
+    "longitude": -47.0206068
+  },
+  {
+    "bairro": "Jardim Fernanda I",
+    "latitude": -23.0490238,
+    "longitude": -47.1301215
+  },
+  {
+    "bairro": "Jardim Fernanda II",
+    "latitude": -23.0490238,
+    "longitude": -47.1301215
+  },
+  {
+    "bairro": "Jardim Guarani",
+    "latitude": -22.9118622,
+    "longitude": -47.0359622
+  },
+  {
+    "bairro": "Jardim Icaraí",
+    "latitude": -22.9552904,
+    "longitude": -47.07716
+  },
+  {
+    "bairro": "Jardim Irmãos Sigrist",
+    "latitude": -23.0029538,
+    "longitude": -47.1051558
+  },
+  {
+    "bairro": "Jardim Itaiú",
+    "latitude": -22.9222039,
+    "longitude": -47.0157449
+  },
+  {
+    "bairro": "Jardim Itatiaia",
+    "latitude": -22.9254204,
+    "longitude": -47.019999
+  },
+  {
+    "bairro": "Jardim do Lago I",
+    "latitude": -22.9323504,
+    "longitude": -47.0839036
+  },
+  {
+    "bairro": "Jardim do Lago II",
+    "latitude": -22.9467408,
+    "longitude": -47.0812548
+  },
+  {
+    "bairro": "Jardim Leonor",
+    "latitude": -22.9240517,
+    "longitude": -47.0570856
+  },
+  {
+    "bairro": "Jardim Marisa",
+    "latitude": -23.0377155,
+    "longitude": -47.11063499999999
+  },
+  {
+    "bairro": "Jardim New York",
+    "latitude": -22.9306117,
+    "longitude": -47.0212146
+  },
+  {
+    "bairro": "Jardim Nova Iorque",
+    "latitude": -22.9306117,
+    "longitude": -47.0212146
+  },
+  {
+    "bairro": "Jardim Nova América",
+    "latitude": -23.003534,
+    "longitude": -47.1085791
+  },
+  {
+    "bairro": "Jardim Nova Mercedes",
+    "latitude": -22.9841796,
+    "longitude": -47.1027208
+  },
+  {
+    "bairro": "Jardim Nova Europa",
+    "latitude": -22.9454473,
+    "longitude": -47.0525937
+  },
+  {
+    "bairro": "Jardim Novo São José",
+    "latitude": -22.9192297,
+    "longitude": -47.0450624
+  },
+  {
+    "bairro": "Jardim Ouro Branco",
+    "latitude": -22.9240548,
+    "longitude": -47.0353538
+  },
+  {
+    "bairro": "Jardim Nossa Senhora de Lourdes",
+    "latitude": -22.976967,
+    "longitude": -47.0962059
+  },
+  {
+    "bairro": "Jardim das Oliveiras",
+    "latitude": -22.8378956,
+    "longitude": -47.161876
+  },
+  {
+    "bairro": "Jardim Paranapanema",
+    "latitude": -22.9134723,
+    "longitude": -47.0321043
+  },
+  {
+    "bairro": "Jardim Paulistano",
+    "latitude": -22.9198408,
+    "longitude": -47.0489591
+  },
+  {
+    "bairro": "Jardim Planalto",
+    "latitude": -22.8960599,
+    "longitude": -47.0449231
+  },
+  {
+    "bairro": "Jardim Primavera",
+    "latitude": -22.9160164,
+    "longitude": -47.0473554
+  },
+  {
+    "bairro": "Jardim Proença",
+    "latitude": -22.9155777,
+    "longitude": -47.0406669
+  },
+  {
+    "bairro": "Jardim Samambaia",
+    "latitude": -22.9336962,
+    "longitude": -47.0160495
+  },
+  {
+    "bairro": "Jardim Santa Cruz",
+    "latitude": -22.9644178,
+    "longitude": -47.0900944
+  },
+  {
+    "bairro": "Jardim Santa Eudóxia",
+    "latitude": -22.9278926,
+    "longitude": -47.03276349999999
+  },
+  {
+    "bairro": "Jardim Santa Odila",
+    "latitude": -22.9350966,
+    "longitude": -47.03250690000001
+  },
+  {
+    "bairro": "Jardim São Domingos",
+    "latitude": -23.040061,
+    "longitude": -47.1033295
+  },
+  {
+    "bairro": "Jardim São Fernando",
+    "latitude": -22.9151166,
+    "longitude": -47.0303319
+  },
+  {
+    "bairro": "Jardim São Gabriel",
+    "latitude": -22.9422144,
+    "longitude": -47.0272926
+  },
+  {
+    "bairro": "Jardim São José",
+    "latitude": -22.9596971,
+    "longitude": -47.09675379999999
+  },
+  {
+    "bairro": "Jardim São Pedro",
+    "latitude": -22.9342236,
+    "longitude": -47.0248613
+  },
+  {
+    "bairro": "Jardim São Vicente",
+    "latitude": -22.9457088,
+    "longitude": -47.0272046
+  },
+  {
+    "bairro": "Jardim Tamoio",
+    "latitude": -22.9305654,
+    "longitude": -47.0139218
+  },
+  {
+    "bairro": "Jardim do Trevo",
+    "latitude": -22.9310269,
+    "longitude": -47.0714181
+  },
+  {
+    "bairro": "Jardim Von Zuben",
+    "latitude": -22.955999,
+    "longitude": -47.0319777
+  },
+  {
+    "bairro": "Parque Camélias",
+    "latitude": -22.9829198,
+    "longitude": -47.0926775
+  },
+  {
+    "bairro": "Parque dos Cisnes",
+    "latitude": -22.9405132,
+    "longitude": -47.02162939999999
+  },
+  {
+    "bairro": "Parque Eldorado",
+    "latitude": -22.9791809,
+    "longitude": -47.10466419999999
+  },
+  {
+    "bairro": "Parque da Figueira",
+    "latitude": -22.9448245,
+    "longitude": -47.0619514
+  },
+  {
+    "bairro": "Parque Jambeiro",
+    "latitude": -22.9632871,
+    "longitude": -47.0504998
+  },
+  {
+    "bairro": "Parque Industrial",
+    "latitude": -22.9213172,
+    "longitude": -47.0844979
+  },
+  {
+    "bairro": "Parque Prado",
+    "latitude": -22.9404833,
+    "longitude": -47.049844
+  },
+  {
+    "bairro": "Parque Oziel",
+    "latitude": -22.9401681,
+    "longitude": -47.0838533
+  },
+  {
+    "bairro": "Parque São Martinho",
+    "latitude": -22.9523663,
+    "longitude": -47.05795920000001
+  },
+  {
+    "bairro": "Ponte Preta",
+    "latitude": -22.9184528,
+    "longitude": -47.0546529
+  },
+  {
+    "bairro": "São Bernardo",
+    "latitude": -22.9243144,
+    "longitude": -47.0750142
+  },
+  {
+    "bairro": "Swiss Park",
+    "latitude": -22.9664358,
+    "longitude": -47.0729012
+  },
+  {
+    "bairro": "Vila Campos Sales",
+    "latitude": -22.9474453,
+    "longitude": -47.0546227
+  },
+  {
+    "bairro": "Vila Georgina",
+    "latitude": -22.9390895,
+    "longitude": -47.037627
+  },
+  {
+    "bairro": "Vila Formosa",
+    "latitude": -22.9477538,
+    "longitude": -47.0206068
+  },
+  {
+    "bairro": "Vila IAPI",
+    "latitude": -22.9065777,
+    "longitude": -47.08869850000001
+  },
+  {
+    "bairro": "Vila Industrial",
+    "latitude": -22.9088112,
+    "longitude": -47.0769499
+  },
+  {
+    "bairro": "Vila Ipê",
+    "latitude": -22.9431083,
+    "longitude": -47.0424909
+  },
+  {
+    "bairro": "Vila Joaquim Inácio",
+    "latitude": -22.9307256,
+    "longitude": -47.0394509
+  },
+  {
+    "bairro": "Vila Lemos",
+    "latitude": -22.9226785,
+    "longitude": -47.0426063
+  },
+  {
+    "bairro": "Vila Mimosa",
+    "latitude": -22.9354222,
+    "longitude": -47.091156
+  },
+  {
+    "bairro": "Vila Marta",
+    "latitude": -22.9147315,
+    "longitude": -47.0482415
+  },
+  {
+    "bairro": "Vila Marieta",
+    "latitude": -22.9279821,
+    "longitude": -47.0473554
+  },
+  {
+    "bairro": "Vila Nova São José",
+    "latitude": -22.917905,
+    "longitude": -47.0494767
+  },
+  {
+    "bairro": "Vila Orozimbo Maia",
+    "latitude": -22.9207144,
+    "longitude": -47.03276349999999
+  },
+  {
+    "bairro": "Vila Palmeiras",
+    "latitude": -23.0324816,
+    "longitude": -47.1039383
+  },
+  {
+    "bairro": "Vila Pompeia",
+    "latitude": -22.9286348,
+    "longitude": -47.0905474
+  },
+  {
+    "bairro": "Vila Rica",
+    "latitude": -22.9318411,
+    "longitude": -47.0929818
+  },
+  {
+    "bairro": "Vila Santana",
+    "latitude": -22.9242785,
+    "longitude": -47.069817
+  },
+  {
+    "bairro": "Vila Teixeira",
+    "latitude": -22.9050679,
+    "longitude": -47.0862874
+  },
+  {
+    "bairro": "Bosque de Barão",
+    "latitude": -22.8270894,
+    "longitude": -47.1023832
+  },
+  {
+    "bairro": "Bosque das Palmeiras",
+    "latitude": -22.7897751,
+    "longitude": -47.0415159
+  },
+  {
+    "bairro": "Chácara Belvedere",
+    "latitude": -22.7948209,
+    "longitude": -47.0766325
+  },
+  {
+    "bairro": "Guará",
+    "latitude": -22.9292214,
+    "longitude": -47.0767744
+  },
+  {
+    "bairro": "Chácara Santa Margarida",
+    "latitude": -22.7908843,
+    "longitude": -47.07046769999999
+  },
+  {
+    "bairro": "Chácaras Leandro",
+    "latitude": -22.8005628,
+    "longitude": -47.0217166
+  },
+  {
+    "bairro": "Cidade Universitária",
+    "latitude": -22.8183413,
+    "longitude": -47.0724604
+  },
+  {
+    "bairro": "Jardim Afife",
+    "latitude": -22.831611,
+    "longitude": -47.0787308
+  },
+  {
+    "bairro": "Jardim Alto da Cidade Universitária",
+    "latitude": -22.786668,
+    "longitude": -47.0640803
+  },
+  {
+    "bairro": "Jardim América",
+    "latitude": -22.8213164,
+    "longitude": -47.0954164
+  },
+  {
+    "bairro": "Jardim Independência",
+    "latitude": -22.8292666,
+    "longitude": -47.0887217
+  },
+  {
+    "bairro": "Jardim José Martins",
+    "latitude": -22.8276142,
+    "longitude": -47.07655159999999
+  },
+  {
+    "bairro": "Jardim Santa Genebra",
+    "latitude": -22.848139,
+    "longitude": -47.06959210000001
+  },
+  {
+    "bairro": "Jardim São Gonçalo",
+    "latitude": -22.8308934,
+    "longitude": -47.0954164
+  },
+  {
+    "bairro": "Jardim do Sol",
+    "latitude": -22.7945453,
+    "longitude": -47.086896
+  },
+  {
+    "bairro": "Loteamento Center Santa Genebra",
+    "latitude": -22.8476008,
+    "longitude": -47.0844618
+  },
+  {
+    "bairro": "Parque Ceasa",
+    "latitude": -22.8332919,
+    "longitude": -47.09632939999999
+  },
+  {
+    "bairro": "Parque das Universidades",
+    "latitude": -22.837082,
+    "longitude": -47.0546529
+  },
+  {
+    "bairro": "Residencial Burato",
+    "latitude": -22.8243418,
+    "longitude": -47.0894414
+  },
+  {
+    "bairro": "Parque Rio das Pedras",
+    "latitude": -22.7977163,
+    "longitude": -47.0820278
+  },
+  {
+    "bairro": "Residencial Parque Rio das Pedras",
+    "latitude": -22.7977163,
+    "longitude": -47.0820278
+  },
+  {
+    "bairro": "Real Parque",
+    "latitude": -22.82165,
+    "longitude": -47.1031773
+  },
+  {
+    "bairro": "Residencial Terra Nova",
+    "latitude": -22.8349062,
+    "longitude": -47.1002859
+  },
+  {
+    "bairro": "Vale das Garças",
+    "latitude": -22.7398004,
+    "longitude": -47.0643845
+  },
+  {
+    "bairro": "Loteamento Chácaras Vale das Garças",
+    "latitude": -22.7398004,
+    "longitude": -47.0643845
+  },
+  {
+    "bairro": "Vila José Martins",
+    "latitude": -22.8233688,
+    "longitude": -47.08186449999999
+  },
+  {
+    "bairro": "Vila José Martins",
+    "latitude": -22.9417637,
+    "longitude": -47.1076394
+  },
+  {
+    "bairro": "Vila José Martins",
+    "latitude": -22.8182218,
+    "longitude": -47.0880058
+  },
+  {
+    "bairro": "Jardim José Martins",
+    "latitude": -22.8276142,
+    "longitude": -47.07655159999999
+  },
+  {
+    "bairro": "Vila Modesto Fernandes",
+    "latitude": -22.8300617,
+    "longitude": -47.0829987
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.9777524,
+    "longitude": -47.1349419
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.8689651,
+    "longitude": -47.0442505
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.870718,
+    "longitude": -47.0446167
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.8728886,
+    "longitude": -47.0400391
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.8650398,
+    "longitude": -47.0337105
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.8725071,
+    "longitude": -47.0374832
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.9751339,
+    "longitude": -47.1221456
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -22.9766649,
+    "longitude": -47.1345116
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -23.2215121,
+    "longitude": -45.9133573
+  },
+  {
+    "bairro": "Vila Santa Luísa",
+    "latitude": -23.0317039,
+    "longitude": -47.103775
+  },
+  {
+    "bairro": "Vila Santa Isabel",
+    "latitude": -22.8167473,
+    "longitude": -47.0959284
+  },
+  {
+    "bairro": "Vila São João",
+    "latitude": -22.8184645,
+    "longitude": -47.082332
+  },
+  {
+    "bairro": "Vila São José",
+    "latitude": -22.9731566,
+    "longitude": -47.0035923
+  },
+  {
+    "bairro": "Village Campinas",
+    "latitude": -22.7488041,
+    "longitude": -47.0555004
+  },
+  {
+    "bairro": "Moradia Estudantil da Unicamp",
+    "latitude": -22.8216807,
+    "longitude": -47.0881984
+  },
+  {
+    "bairro": "Chácaras Cruzeiro do Sul",
+    "latitude": -22.9287033,
+    "longitude": -47.17887
+  },
+  {
+    "bairro": "Cidade Satélite Íris",
+    "latitude": -22.9414885,
+    "longitude": -47.1426677
+  },
+  {
+    "bairro": "Cidade Satélite Íris II",
+    "latitude": -22.9344113,
+    "longitude": -47.1575736
+  },
+  {
+    "bairro": "Cidade Satélite Íris III",
+    "latitude": -22.9306985,
+    "longitude": -47.1527023
+  },
+  {
+    "bairro": "Cidade Satélite íris IV",
+    "latitude": -22.9344113,
+    "longitude": -47.1575736
+  },
+  {
+    "bairro": "Cidade Satélite íris IV",
+    "latitude": -22.9372166,
+    "longitude": -47.1585372
+  },
+  {
+    "bairro": "Jardim Bassoli",
+    "latitude": -22.967365,
+    "longitude": -47.200558
+  },
+  {
+    "bairro": "Jardim Campina Grande",
+    "latitude": -22.9611198,
+    "longitude": -47.2172641
+  },
+  {
+    "bairro": "Jardim Florence",
+    "latitude": -22.9410972,
+    "longitude": -47.164343
+  },
+  {
+    "bairro": "Jardim Garcia",
+    "latitude": -22.9105362,
+    "longitude": -47.1097662
+  },
+  {
+    "bairro": "Jardim Liliza",
+    "latitude": -22.959898,
+    "longitude": -47.1861863
+  },
+  {
+    "bairro": "Jardim Lisa",
+    "latitude": -22.9582748,
+    "longitude": -47.1813086
+  },
+  {
+    "bairro": "Jardim Londres",
+    "latitude": -22.918782,
+    "longitude": -47.11307040000001
+  },
+  {
+    "bairro": "Jardim Maracanã",
+    "latitude": -22.9544994,
+    "longitude": -47.1887893
+  },
+  {
+    "bairro": "Jardim Nova Esperança",
+    "latitude": -22.9438572,
+    "longitude": -47.1739931
+  },
+  {
+    "bairro": "Jardim Novo Maracanã",
+    "latitude": -22.9462911,
+    "longitude": -47.1813086
+  },
+  {
+    "bairro": "Jardim Rossin",
+    "latitude": -22.9254234,
+    "longitude": -47.1618027
+  },
+  {
+    "bairro": "Jardim Santa Clara",
+    "latitude": -22.9559157,
+    "longitude": -47.1886253
+  },
+  {
+    "bairro": "Jardim Santa Rosa",
+    "latitude": -22.9343075,
+    "longitude": -47.1813086
+  },
+  {
+    "bairro": "Jardim São Judas Tadeu",
+    "latitude": -22.951663,
+    "longitude": -47.1398675
+  },
+  {
+    "bairro": "Jardim Sul-América",
+    "latitude": -22.893636,
+    "longitude": -47.0468815
+  },
+  {
+    "bairro": "Jardim Sul-América",
+    "latitude": -22.9417807,
+    "longitude": -47.1815723
+  },
+  {
+    "bairro": "Parque Floresta",
+    "latitude": -22.9572037,
+    "longitude": -47.1995663
+  },
+  {
+    "bairro": "Parque Itajaí",
+    "latitude": -22.9623327,
+    "longitude": -47.1935036
+  },
+  {
+    "bairro": "Parque São Bento",
+    "latitude": -22.9647674,
+    "longitude": -47.200822
+  },
+  {
+    "bairro": "Parque Valença I",
+    "latitude": -22.9435983,
+    "longitude": -47.1876995
+  },
+  {
+    "bairro": "Parque Valença II",
+    "latitude": -22.9399482,
+    "longitude": -47.19106439999999
+  },
+  {
+    "bairro": "Residencial Cosmos",
+    "latitude": -22.9469891,
+    "longitude": -47.1618027
+  },
+  {
+    "bairro": "Residencial Novo Mundo",
+    "latitude": -22.9486503,
+    "longitude": -47.1739931
+  },
+  {
+    "bairro": "Residencial Colina das Nascentes",
+    "latitude": -22.78661,
+    "longitude": -47.0830448
+  },
+  {
+    "bairro": "Residencial São Luís",
+    "latitude": -22.9253282,
+    "longitude": -47.1812972
+  },
+  {
+    "bairro": "Vila Castelo Branco",
+    "latitude": -22.9155763,
+    "longitude": -47.1090118
+  },
+  {
+    "bairro": "Vila Padre Manuel da Nóbrega",
+    "latitude": -22.9100136,
+    "longitude": -47.1155059
+  },
+  {
+    "bairro": "Bairro Boa Vista",
+    "latitude": -22.8886602,
+    "longitude": -47.124502
+  },
+  {
+    "bairro": "Bairro Boa Vista",
+    "latitude": -22.9104738,
+    "longitude": -47.2105814
+  },
+  {
+    "bairro": "Bairro Boa Vista",
+    "latitude": -22.8766157,
+    "longitude": -47.1429135
+  },
+  {
+    "bairro": "Bairro Boa Vista",
+    "latitude": -22.9272614,
+    "longitude": -47.112939
+  },
+  {
+    "bairro": "Bairro Boa Vista",
+    "latitude": -22.8605393,
+    "longitude": -47.1770508
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -23.0393707,
+    "longitude": -47.1249457
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.977301,
+    "longitude": -47.1396784
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.9486552,
+    "longitude": -47.115908
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.8681734,
+    "longitude": -47.1457701
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.8635662,
+    "longitude": -47.1451777
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.8659851,
+    "longitude": -47.1389971
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.9293329,
+    "longitude": -47.1192293
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.9212958,
+    "longitude": -47.1108169
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.857214,
+    "longitude": -47.1512152
+  },
+  {
+    "bairro": "Bairro Mendonça",
+    "latitude": -22.8003585,
+    "longitude": -47.024565
+  },
+  {
+    "bairro": "Bairro Nova Aparecida",
+    "latitude": -22.8759143,
+    "longitude": -47.1450904
+  },
+  {
+    "bairro": "Bairro Nova Aparecida",
+    "latitude": -22.8609866,
+    "longitude": -47.1542526
+  },
+  {
+    "bairro": "Bairro Rural do Pari",
+    "latitude": -22.8314794,
+    "longitude": -47.1463608
+  },
+  {
+    "bairro": "Bairro San Martin",
+    "latitude": -22.8399422,
+    "longitude": -47.1569274
+  },
+  {
+    "bairro": "CDHU Campinas F",
+    "latitude": -22.8372141,
+    "longitude": -47.0528273
+  },
+  {
+    "bairro": "CDHU Campinas F",
+    "latitude": -22.9007698,
+    "longitude": -47.0643655
+  },
+  {
+    "bairro": "Chácaras Anhanguera",
+    "latitude": -22.8869557,
+    "longitude": -47.1343851
+  },
+  {
+    "bairro": "Chácaras Boa Vista",
+    "latitude": -22.8714197,
+    "longitude": -47.141695
+  },
+  {
+    "bairro": "Chácaras Três Marias",
+    "latitude": -22.8687233,
+    "longitude": -47.1400781
+  },
+  {
+    "bairro": "Jardim Aparecida",
+    "latitude": -22.8532545,
+    "longitude": -47.16081140000001
+  },
+  {
+    "bairro": "Jardim Mirassol",
+    "latitude": -22.8419646,
+    "longitude": -47.1380907
+  },
+  {
+    "bairro": "Jardim Rosália I",
+    "latitude": -22.8713429,
+    "longitude": -47.1379986
+  },
+  {
+    "bairro": "Jardim Rosália II",
+    "latitude": -22.8694038,
+    "longitude": -47.1374308
+  },
+  {
+    "bairro": "Nova Aparecida",
+    "latitude": -22.8533763,
+    "longitude": -47.1620028
+  },
+  {
+    "bairro": "Núcleo Residencial Beira Rio",
+    "latitude": -22.8760799,
+    "longitude": -47.1454576
+  },
+  {
+    "bairro": "Núcleo Residencial Padre Josimo",
+    "latitude": -22.8760799,
+    "longitude": -47.1454576
+  },
+  {
+    "bairro": "Núcleo Residencial Princesa D'Oeste",
+    "latitude": -22.9558582,
+    "longitude": -47.1390137
+  },
+  {
+    "bairro": "Núcleo Residencial Renascença",
+    "latitude": -22.8760799,
+    "longitude": -47.1454576
+  },
+  {
+    "bairro": "Núcleo Residencial São Luiz",
+    "latitude": -22.8760799,
+    "longitude": -47.1454576
+  },
+  {
+    "bairro": "Núcleo Residencial São Luiz",
+    "latitude": -22.9300966,
+    "longitude": -47.1135188
+  },
+  {
+    "bairro": "Núcleo Residencial São Luiz",
+    "latitude": -22.9270409,
+    "longitude": -47.070191
+  },
+  {
+    "bairro": "Núcleo Residencial São Luiz",
+    "latitude": -22.8597344,
+    "longitude": -47.176702
+  },
+  {
+    "bairro": "Núcleo Residencial Sete de Setembro",
+    "latitude": -22.8857232,
+    "longitude": -46.9848481
+  },
+  {
+    "bairro": "Núcleo Residencial Vila Francisca",
+    "latitude": -22.8760799,
+    "longitude": -47.1454576
+  },
+  {
+    "bairro": "Parque Cidade de Campinas",
+    "latitude": -22.8371345,
+    "longitude": -47.15388060000001
+  },
+  {
+    "bairro": "Parque Família",
+    "latitude": -22.9692598,
+    "longitude": -47.0780062
+  },
+  {
+    "bairro": "Parque Maria Helena",
+    "latitude": -22.8654555,
+    "longitude": -47.1471782
+  },
+  {
+    "bairro": "Parque Pinheiros",
+    "latitude": -22.8728872,
+    "longitude": -47.2038716
+  },
+  {
+    "bairro": "Terminal Intermodal de Cargas",
+    "latitude": -22.8455122,
+    "longitude": -47.1520526
+  },
+  {
+    "bairro": "Vila Lunardi",
+    "latitude": -22.8856093,
+    "longitude": -47.1429457
+  },
+  {
+    "bairro": "Vila Olímpia",
+    "latitude": -22.8346106,
+    "longitude": -47.1456587
+  },
+  {
+    "bairro": "Vila Padre Anchieta",
+    "latitude": -22.8683109,
+    "longitude": -47.1558346
+  },
+  {
+    "bairro": "Vila Penteado",
+    "latitude": -22.9190458,
+    "longitude": -47.0619007
+  },
+  {
+    "bairro": "Vila Réggio",
+    "latitude": -22.8755831,
+    "longitude": -47.143667
+  },
+  {
+    "bairro": "Vila Renascença",
+    "latitude": -22.8645685,
+    "longitude": -47.1426689
+  },
+  {
+    "bairro": "Conjunto Residencial Mauro Marcondes",
+    "latitude": -22.972871,
+    "longitude": -47.1707476
+  },
+  {
+    "bairro": "Conjunto Residencial Mauro Marcondes",
+    "latitude": -22.975056,
+    "longitude": -47.1771605
+  },
+  {
+    "bairro": "Conjunto Residencial Sousa Queiroz",
+    "latitude": -22.9498152,
+    "longitude": -47.1013644
+  },
+  {
+    "bairro": "Distrito Industrial",
+    "latitude": -23.0000662,
+    "longitude": -47.1198987
+  },
+  {
+    "bairro": "DIC I",
+    "latitude": -22.9775947,
+    "longitude": -47.1354513
+  },
+  {
+    "bairro": "Conjunto Habitacional Monsenhor Luiz Fernando Abreu",
+    "latitude": -22.9775947,
+    "longitude": -47.1354513
+  },
+  {
+    "bairro": "DIC II",
+    "latitude": -22.9772727,
+    "longitude": -47.124292
+  },
+  {
+    "bairro": "Conjunto Habitacional Doutor Antônio Mendonça de Barros",
+    "latitude": -22.9772727,
+    "longitude": -47.124292
+  },
+  {
+    "bairro": "DIC III",
+    "latitude": -22.9771058,
+    "longitude": -47.1209863
+  },
+  {
+    "bairro": "Conjunto Habitacional Ruy Novais",
+    "latitude": -22.9771058,
+    "longitude": -47.1209863
+  },
+  {
+    "bairro": "DIC IV",
+    "latitude": -22.9842581,
+    "longitude": -47.1155059
+  },
+  {
+    "bairro": "Conjunto Habitacional Lech Walesa",
+    "latitude": -22.9842581,
+    "longitude": -47.1155059
+  },
+  {
+    "bairro": "DIC V",
+    "latitude": -22.9819071,
+    "longitude": -47.1228132
+  },
+  {
+    "bairro": "Conjunto Habitacional Chico Mendes",
+    "latitude": -22.9819071,
+    "longitude": -47.1228132
+  },
+  {
+    "bairro": "DIC VI",
+    "latitude": -22.9795552,
+    "longitude": -47.1301215
+  },
+  {
+    "bairro": "Conjunto Habitacional Santo Dias da Silva",
+    "latitude": -22.9795552,
+    "longitude": -47.1301215
+  },
+  {
+    "bairro": "Jardim Adhemar de Barros",
+    "latitude": -22.9880579,
+    "longitude": -47.1502246
+  },
+  {
+    "bairro": "Jardim Aeronave de Viracopos",
+    "latitude": -22.985972,
+    "longitude": -47.1349942
+  },
+  {
+    "bairro": "Jardim Aeroporto de Viracopos",
+    "latitude": -22.9633194,
+    "longitude": -47.1281939
+  },
+  {
+    "bairro": "Jardim Aires da Costa",
+    "latitude": -22.9585287,
+    "longitude": -47.11955589999999
+  },
+  {
+    "bairro": "Jardim das Amoreiras",
+    "latitude": -22.9561719,
+    "longitude": -47.10699409999999
+  },
+  {
+    "bairro": "Jardim Capivari",
+    "latitude": -22.9538932,
+    "longitude": -47.11063499999999
+  },
+  {
+    "bairro": "Jardim Campos Elíseos",
+    "latitude": -22.9255493,
+    "longitude": -47.1091054
+  },
+  {
+    "bairro": "Jardim Indianópolis",
+    "latitude": -22.9494303,
+    "longitude": -47.0981554
+  },
+  {
+    "bairro": "Jardim Cidade Singer I",
+    "latitude": -23.0398658,
+    "longitude": -47.1165909
+  },
+  {
+    "bairro": "Jardim Cidade Singer II",
+    "latitude": -23.049512,
+    "longitude": -47.12165299999999
+  },
+  {
+    "bairro": "Jardim Cristina",
+    "latitude": -22.9675887,
+    "longitude": -47.1319487
+  },
+  {
+    "bairro": "Jardim Esplanada",
+    "latitude": -22.9901883,
+    "longitude": -47.1543758
+  },
+  {
+    "bairro": "Jardim Ipaussurama",
+    "latitude": -22.9284545,
+    "longitude": -47.1254289
+  },
+  {
+    "bairro": "Jardim Ipiranga",
+    "latitude": -22.9299938,
+    "longitude": -47.0957794
+  },
+  {
+    "bairro": "Jardim Itatinga",
+    "latitude": -22.9729485,
+    "longitude": -47.10572459999999
+  },
+  {
+    "bairro": "Jardim Marajó",
+    "latitude": -22.9697634,
+    "longitude": -47.1636311
+  },
+  {
+    "bairro": "Jardim Maria Rosa",
+    "latitude": -22.9738322,
+    "longitude": -47.1075909
+  },
+  {
+    "bairro": "Jardim Melina",
+    "latitude": -22.9807852,
+    "longitude": -47.1356034
+  },
+  {
+    "bairro": "Jardim Mercedes",
+    "latitude": -22.9656616,
+    "longitude": -47.1441319
+  },
+  {
+    "bairro": "Jardim Morumbi",
+    "latitude": -22.9595378,
+    "longitude": -47.1203773
+  },
+  {
+    "bairro": "Jardim Novo Campos Elíseos",
+    "latitude": -22.9390373,
+    "longitude": -47.1028321
+  },
+  {
+    "bairro": "Jardim Pauliceia",
+    "latitude": -22.9195488,
+    "longitude": -47.10236820000001
+  },
+  {
+    "bairro": "Jardim Ouro Verde",
+    "latitude": -22.9740048,
+    "longitude": -47.1368216
+  },
+  {
+    "bairro": "Jardim Planalto de Viracopos",
+    "latitude": -22.994773,
+    "longitude": -47.1396409
+  },
+  {
+    "bairro": "Jardim Paraíso de Viracopos",
+    "latitude": -22.9683646,
+    "longitude": -47.11056749999999
+  },
+  {
+    "bairro": "Jardim Petrópolis",
+    "latitude": -22.965472,
+    "longitude": -47.1112439
+  },
+  {
+    "bairro": "Jardim Roseira",
+    "latitude": -22.9243734,
+    "longitude": -47.1136793
+  },
+  {
+    "bairro": "Jardim Rosalina",
+    "latitude": -23.6024128,
+    "longitude": -46.8930968
+  },
+  {
+    "bairro": "Jardim Santa Lúcia",
+    "latitude": -22.9402765,
+    "longitude": -47.1140364
+  },
+  {
+    "bairro": "Jardim Santa Rita de Cássia",
+    "latitude": -22.9659113,
+    "longitude": -47.09601019999999
+  },
+  {
+    "bairro": "Jardim Santa Terezinha",
+    "latitude": -22.9664187,
+    "longitude": -47.1131638
+  },
+  {
+    "bairro": "Jardim São Cristóvão",
+    "latitude": -22.9804532,
+    "longitude": -47.1471782
+  },
+  {
+    "bairro": "Jardim São João",
+    "latitude": -23.0253933,
+    "longitude": -47.1185505
+  },
+  {
+    "bairro": "Jardim Shangai",
+    "latitude": -22.9636515,
+    "longitude": -47.141695
+  },
+  {
+    "bairro": "Jardim Vista Alegre",
+    "latitude": -22.9688697,
+    "longitude": -47.1465689
+  },
+  {
+    "bairro": "Jardim Yeda",
+    "latitude": -22.949935,
+    "longitude": -47.1159653
+  },
+  {
+    "bairro": "Núcleo Residencial Nossa Senhora Aparecida",
+    "latitude": -22.9871589,
+    "longitude": -47.1331669
+  },
+  {
+    "bairro": "Parque Dom Pedro",
+    "latitude": -22.9756614,
+    "longitude": -47.1471782
+  },
+  {
+    "bairro": "Parque das Indústrias",
+    "latitude": -22.9926122,
+    "longitude": -47.1450841
+  },
+  {
+    "bairro": "Parque Montreal",
+    "latitude": -22.9642869,
+    "longitude": -47.1077537
+  },
+  {
+    "bairro": "Parque Tropical",
+    "latitude": -22.9339732,
+    "longitude": -47.1173327
+  },
+  {
+    "bairro": "Parque Universitário de Viracopos",
+    "latitude": -22.9676774,
+    "longitude": -47.1528165
+  },
+  {
+    "bairro": "Parque União da Vitória",
+    "latitude": -22.9732996,
+    "longitude": -47.1567912
+  },
+  {
+    "bairro": "Parque Vista Alegre",
+    "latitude": -23.0418852,
+    "longitude": -47.1374308
+  },
+  {
+    "bairro": "Residencia. Campina Verde",
+    "latitude": -22.9673939,
+    "longitude": -47.1683841
+  },
+  {
+    "bairro": "Residencial Citta Di Firenze",
+    "latitude": -23.1896828,
+    "longitude": -46.9011539
+  },
+  {
+    "bairro": "Residencial Citta Di Salerno",
+    "latitude": -22.9844028,
+    "longitude": -47.1553581
+  },
+  {
+    "bairro": "Residencial Porto Seguro",
+    "latitude": -22.9720974,
+    "longitude": -47.174107
+  },
+  {
+    "bairro": "Residencial São José",
+    "latitude": -22.9654951,
+    "longitude": -47.17084269999999
+  },
+  {
+    "bairro": "Vila Aeroporto",
+    "latitude": -22.9710757,
+    "longitude": -47.12268299999999
+  },
+  {
+    "bairro": "Vila Mingone",
+    "latitude": -22.9591014,
+    "longitude": -47.1072824
+  },
+  {
+    "bairro": "Vila Perseu Leite de Barros",
+    "latitude": -22.929569,
+    "longitude": -47.114897
+  },
+  {
+    "bairro": "Vida Nova",
+    "latitude": -22.9734279,
+    "longitude": -47.17643150000001
+  },
+  {
+    "bairro": "Conjunto Habitacional Vida Nova",
+    "latitude": -22.9734279,
+    "longitude": -47.17643150000001
+  },
+  {
+    "bairro": "Vila União",
+    "latitude": -22.944089,
+    "longitude": -47.1209441
+  },
+  {
+    "bairro": "Vila Vitória",
+    "latitude": -22.9789831,
+    "longitude": -47.1697261
+  },
+  {
+    "bairro": "Adriano C. Barros",
+    "latitude": -22.9209505,
+    "longitude": -47.0529586
+  },
+  {
+    "bairro": "Angélica",
+    "latitude": -22.8527172,
+    "longitude": -47.0151943
+  },
+  {
+    "bairro": "Angélica",
+    "latitude": -22.9243973,
+    "longitude": -47.1015164
+  },
+  {
+    "bairro": "Arboreto dos Jequitibás",
+    "latitude": -22.892415,
+    "longitude": -46.96958040000001
+  },
+  {
+    "bairro": "Bosque Irapuã",
+    "latitude": -22.8679261,
+    "longitude": -46.9743739
+  },
+  {
+    "bairro": "Loteamento Caminhos de San Conrado",
+    "latitude": -22.8577961,
+    "longitude": -46.9737395
+  },
+  {
+    "bairro": "Chácara Bela Vista",
+    "latitude": -22.8926188,
+    "longitude": -47.00237720000001
+  },
+  {
+    "bairro": "Chácara Santo Antônio",
+    "latitude": -22.8910542,
+    "longitude": -47.0499848
+  },
+  {
+    "bairro": "Chácara Santo Antônio",
+    "latitude": -22.8918001,
+    "longitude": -47.0789833
+  },
+  {
+    "bairro": "Chácara Santo Antônio",
+    "latitude": -22.9400683,
+    "longitude": -47.0560024
+  },
+  {
+    "bairro": "Chácara Santo Antônio",
+    "latitude": -22.485281,
+    "longitude": -48.9978385
+  },
+  {
+    "bairro": "Chácara Santo Antônio",
+    "latitude": -23.0206918,
+    "longitude": -45.5671196
+  },
+  {
+    "bairro": "Colinas do Atibaia",
+    "latitude": -22.8289996,
+    "longitude": -46.942895
+  },
+  {
+    "bairro": "Colinas do Ermitage",
+    "latitude": -22.8841561,
+    "longitude": -46.95985659999999
+  },
+  {
+    "bairro": "Colinas do Ermitage II",
+    "latitude": -22.8872255,
+    "longitude": -46.9803933
+  },
+  {
+    "bairro": "Colinas do Ermitage III",
+    "latitude": -22.8872255,
+    "longitude": -46.9803933
+  },
+  {
+    "bairro": "Entreverdes",
+    "latitude": -22.8450376,
+    "longitude": -46.9693248
+  },
+  {
+    "bairro": "Fazenda Iracema",
+    "latitude": -22.8388315,
+    "longitude": -47.0547693
+  },
+  {
+    "bairro": "Imperial Parque",
+    "latitude": -22.8813506,
+    "longitude": -46.9847614
+  },
+  {
+    "bairro": "Jardim Atibaia",
+    "latitude": -22.8835881,
+    "longitude": -46.964796
+  },
+  {
+    "bairro": "Jardim Belmonte",
+    "latitude": -22.8771538,
+    "longitude": -46.9549656
+  },
+  {
+    "bairro": "Jardim Botânico",
+    "latitude": -22.8882586,
+    "longitude": -46.9659704
+  },
+  {
+    "bairro": "Jardim Conceição",
+    "latitude": -22.8861222,
+    "longitude": -46.9829395
+  },
+  {
+    "bairro": "Jardim Martinelli",
+    "latitude": -22.8812771,
+    "longitude": -46.961963
+  },
+  {
+    "bairro": "Jardim Roselia",
+    "latitude": -22.8713429,
+    "longitude": -47.1379986
+  },
+  {
+    "bairro": "Jardim Rosana",
+    "latitude": -22.8843919,
+    "longitude": -46.97220859999999
+  },
+  {
+    "bairro": "Jardim São Francisco",
+    "latitude": -22.9635578,
+    "longitude": -47.1252492
+  },
+  {
+    "bairro": "Jardim São Francisco II",
+    "latitude": -22.9726535,
+    "longitude": -47.1542891
+  },
+  {
+    "bairro": "Jardim São Francisco II",
+    "latitude": -22.9453678,
+    "longitude": -46.9968405
+  },
+  {
+    "bairro": "Jardim Sorirama",
+    "latitude": -22.8745339,
+    "longitude": -46.9606911
+  },
+  {
+    "bairro": "Mirantes da Fazenda",
+    "latitude": -22.8905536,
+    "longitude": -46.9722059
+  },
+  {
+    "bairro": "Mirantes da Fazenda",
+    "latitude": -22.7869068,
+    "longitude": -47.0307796
+  },
+  {
+    "bairro": "Notre Dame",
+    "latitude": -22.8932977,
+    "longitude": -47.0065399
+  },
+  {
+    "bairro": "Nova Sousas",
+    "latitude": -22.8708511,
+    "longitude": -46.9622951
+  },
+  {
+    "bairro": "Núcleo Residencial Cristo Rei",
+    "latitude": -22.8860322,
+    "longitude": -46.9831448
+  },
+  {
+    "bairro": "Parque das Araucárias",
+    "latitude": -22.9040083,
+    "longitude": -47.0400589
+  },
+  {
+    "bairro": "Parque das Hortênsias",
+    "latitude": -22.8904757,
+    "longitude": -46.9763542
+  },
+  {
+    "bairro": "Parque Jatibaia",
+    "latitude": -22.866924,
+    "longitude": -46.9696528
+  },
+  {
+    "bairro": "Portal da Mata",
+    "latitude": -22.8269487,
+    "longitude": -47.1022752
+  },
+  {
+    "bairro": "Quinta de Jales",
+    "latitude": -22.8838712,
+    "longitude": -47.167538
+  },
+  {
+    "bairro": "Quinta dos Jatobás",
+    "latitude": -22.8889003,
+    "longitude": -47.1230061
+  },
+  {
+    "bairro": "Reserva da Floresta",
+    "latitude": -22.8927475,
+    "longitude": -47.0258079
+  },
+  {
+    "bairro": "Residencial Cândido Ferreira",
+    "latitude": -22.8769502,
+    "longitude": -46.9692095
+  },
+  {
+    "bairro": "Residencial Jaguary",
+    "latitude": -22.8718461,
+    "longitude": -46.9736408
+  },
+  {
+    "bairro": "Santa Lydia",
+    "latitude": -22.9048379,
+    "longitude": -47.06251899999999
+  },
+  {
+    "bairro": "Santa Rita de Mato Dentro",
+    "latitude": -22.921138,
+    "longitude": -46.939766
+  },
+  {
+    "bairro": "Santo Antônio do Maracajú",
+    "latitude": -22.9690185,
+    "longitude": -47.12819020000001
+  },
+  {
+    "bairro": "Sitio dos Cambáras",
+    "latitude": -22.9052379,
+    "longitude": -47.0086557
+  },
+  {
+    "bairro": "Sousas",
+    "latitude": -22.8805875,
+    "longitude": -46.9672507
+  },
+  {
+    "bairro": "Sousas Park",
+    "latitude": -22.866924,
+    "longitude": -46.9696528
+  },
+  {
+    "bairro": "Sousas Park",
+    "latitude": -22.8701614,
+    "longitude": -46.9661876
+  },
+  {
+    "bairro": "Vila Ana Luíza",
+    "latitude": -22.9192561,
+    "longitude": -47.056899
+  },
+  {
+    "bairro": "Vila Bourbon",
+    "latitude": -22.8884045,
+    "longitude": -46.9744465
+  },
+  {
+    "bairro": "Vila Emi",
+    "latitude": -22.9099384,
+    "longitude": -47.0626332
+  },
+  {
+    "bairro": "Vila Janete",
+    "latitude": -22.8803615,
+    "longitude": -46.97120229999999
+  },
+  {
+    "bairro": "Vila José Iório",
+    "latitude": -22.8828509,
+    "longitude": -46.96958040000001
+  },
+  {
+    "bairro": "Vila Laércio Teixeira",
+    "latitude": -22.877251,
+    "longitude": -46.9696364
+  },
+  {
+    "bairro": "Vila Santana",
+    "latitude": -22.9242785,
+    "longitude": -47.069817
+  },
+  {
+    "bairro": "Vila Santana II",
+    "latitude": -22.8895958,
+    "longitude": -46.98106869999999
+  },
+  {
+    "bairro": "Vila Santana III",
+    "latitude": -22.8882197,
+    "longitude": -46.9743883
+  },
+  {
+    "bairro": "Vila Santana III",
+    "latitude": -23.4771085,
+    "longitude": -46.867568
+  },
+  {
+    "bairro": "Vila Santana III",
+    "latitude": -23.4744652,
+    "longitude": -46.8695509
+  },
+  {
+    "bairro": "Vila Santa Rita",
+    "latitude": -22.9330078,
+    "longitude": -47.0313994
+  },
+  {
+    "bairro": "Vila Sônia",
+    "latitude": -22.8932723,
+    "longitude": -46.9948714
+  },
+  {
+    "bairro": "Vila Sônia II",
+    "latitude": -22.9453678,
+    "longitude": -46.9968405
+  },
+  {
+    "bairro": "Vila Sônia II",
+    "latitude": -22.8872255,
+    "longitude": -46.9803933
+  },
+  {
+    "bairro": "Ville Sainte Helene",
+    "latitude": -22.8967458,
+    "longitude": -46.9897196
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -22.9025507,
+    "longitude": -47.0487061
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -22.878355,
+    "longitude": -47.052981
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -22.7261987,
+    "longitude": -52.6203306
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -22.7309063,
+    "longitude": -52.8854231
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -15.6260273,
+    "longitude": -58.1777578
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -24.4221784,
+    "longitude": -52.0991551
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -22.4149501,
+    "longitude": -49.4084365
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -20.0203321,
+    "longitude": -44.0723452
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -21.1267053,
+    "longitude": -51.0963996
+  },
+  {
+    "bairro": "Bairro da Estação",
+    "latitude": -16.2023277,
+    "longitude": -52.1655636
+  },
+  {
+    "bairro": "Cabras",
+    "latitude": -22.881041,
+    "longitude": -46.860641
+  },
+  {
+    "bairro": "Cabras",
+    "latitude": -22.9022017,
+    "longitude": -46.8272177
+  },
+  {
+    "bairro": "Capricórnio",
+    "latitude": -22.9082093,
+    "longitude": -47.0563939
+  },
+  {
+    "bairro": "Capricórnio",
+    "latitude": -22.9016502,
+    "longitude": -47.045584
+  },
+  {
+    "bairro": "Chácara Paraíso",
+    "latitude": -22.7325176,
+    "longitude": -47.0716444
+  },
+  {
+    "bairro": "Chácara Paraíso",
+    "latitude": -22.9423233,
+    "longitude": -47.0274774
+  },
+  {
+    "bairro": "Fazenda das Cabras",
+    "latitude": -22.881041,
+    "longitude": -46.860641
+  },
+  {
+    "bairro": "Fazenda Santa Maria",
+    "latitude": -22.850159,
+    "longitude": -46.886387
+  },
+  {
+    "bairro": "Fazenda Três Pedras",
+    "latitude": -22.8373401,
+    "longitude": -47.0385459
+  },
+  {
+    "bairro": "Joaquim Egídio",
+    "latitude": -22.8840571,
+    "longitude": -46.938883
+  },
+  {
+    "bairro": "Morada das Nascentes",
+    "latitude": -22.8751231,
+    "longitude": -46.92574279999999
+  },
+  {
+    "bairro": "Riqueza",
+    "latitude": -22.9162779,
+    "longitude": -46.94406739999999
+  },
+  {
+    "bairro": "Santa Maria",
+    "latitude": -23.0404539,
+    "longitude": -47.1322532
+  },
+  {
+    "bairro": "Santa Maria",
+    "latitude": -22.9314069,
+    "longitude": -47.10236680000001
+  },
+  {
+    "bairro": "Serra das Cabras",
+    "latitude": -22.8844218,
+    "longitude": -46.8532572
+  },
+  {
+    "bairro": "Vila São Joaquim",
+    "latitude": -22.8840571,
+    "longitude": -46.938883
+  }
+]
